@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
+## Credits
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+- this [Phazer + webpack](https://github.com/photonstorm/phaser3-project-template?ref=hackernoon.com) template was used.
